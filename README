@@ -1,6 +1,6 @@
 This project contains the sources for the various open source fonts.
 
-Please see http://fonts.doap.com/webfonts for access via web.
+Please see http://fonts.doap.com/ for access via web.
 
 Each subdirectory contains fonts from a single designer. The .ttf font
 files are at the top level of each directory. Various source files are often present in a src/ directory
